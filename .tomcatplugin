@@ -9,7 +9,7 @@
     <extraInfo></extraInfo>
     <webPath>jboss</webPath>
     <webClassPathEntries>
-        <webClassPathEntry>/jta-sample-jboss/target/classes</webClassPathEntry>
+        <webClassPathEntry>/spring-jta-jboss/target/classes</webClassPathEntry>
         <webClassPathEntry>M2_REPO/antlr/antlr/2.7.7/antlr-2.7.7.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar</webClassPathEntry>
         <webClassPathEntry>M2_REPO/asm/asm/3.3.1/asm-3.3.1.jar</webClassPathEntry>
